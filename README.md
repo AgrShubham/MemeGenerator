@@ -21,7 +21,7 @@ Create hilarious, custom memes in seconds with this responsive React.js web app!
 ## 📸 Screenshots
 
 <!-- Add screenshots here -->
-![Meme Generator Screenshot](<Meme Generator.png>)
+![Meme Generator Screenshot](./Meme%20Generator.png)
 ## 📦 Installation
 
 ```bash
